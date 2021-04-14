@@ -1,0 +1,3 @@
+public class void HW{
+system.out.println("hello world")
+}
